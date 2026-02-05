@@ -5,4 +5,14 @@ remote_theme: mmistakes/minimal-mistakes
 
 plugins:
   - jekyll-include-cache
+header:
+  nav:
+    - title: "Home"
+      url: /
+    - title: "Shop"
+      url: /shop/
+    - title: "Checkout"
+      url: /checkout/
+    - title: "About"
+      url: /about/
 
