@@ -17,4 +17,8 @@ header:
       url: /about/
 url: "https://pawssoaps.github.io"
 baseurl: "/paws-soaps-web-stuff"
+collections:
+  products:
+    output: true
+    permalink: /products/:name/
 
