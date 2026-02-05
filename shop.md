@@ -1,8 +1,14 @@
 ---
-layout: single
+layout: collection
 title: "Shop Soaps"
 permalink: /shop/
+collection: products
+entries_layout: grid
+classes: wide
 ---
+
+Browse our handmade soaps below. Click any bar to see details, ingredients, and ordering.
+
 
 Welcome to our handmade soap collection 🧼  
 All bars are handcrafted in small batches.
