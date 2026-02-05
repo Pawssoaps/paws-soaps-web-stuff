@@ -15,4 +15,6 @@ header:
       url: /checkout/
     - title: "About"
       url: /about/
+url: "https://pawssoaps.github.io"
+baseurl: "/paws-soaps-web-stuff"
 
