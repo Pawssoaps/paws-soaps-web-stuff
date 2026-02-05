@@ -1,0 +1,8 @@
+title: "P.A.W's Handcrafted Soaps"
+description: "Handmade soaps with cozy rustic charm"
+
+remote_theme: mmistakes/minimal-mistakes
+
+plugins:
+  - jekyll-include-cache
+
