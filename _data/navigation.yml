@@ -1,9 +1,0 @@
-main:
-  - title: "Home"
-    url: /
-  - title: "Shop"
-    url: /shop/
-  - title: "Checkout"
-    url: /checkout/
-  - title: "About"
-    url: /about/
